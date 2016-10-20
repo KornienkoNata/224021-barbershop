@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Наталья Корниенко](https://up.htmlacademy.ru/htmlcss/15/user/224021).
+* Наставник: [Олег Петров](https://up.htmlacademy.ru/htmlcss/15/user/42390).
 
 ---
 
