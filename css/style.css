@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'PTSans';
+  font-style: normal;
+  font-weight: normal;
+  src: local('PTsans'),
+       url('/fonts/ptsansnarrow.woff') format('woff'),
+       url('/fonts/ptsansnarrowbold.woff') format('woff'),
+}
+
+@font-face {
+  font-family: 'PTSan';
+  font-style: normal;
+  font-weight: normal;
+  src: local('PTSan'),
+       url('/fonts/ptsansnarrow.woff2') format('woff2'),
+       url('/fonts/ptsansnarrowbold.woff2') format('woff2'),
+}
+
+
+body {
+  font-family: 'PTSan','Arial', 'Helvetica', 'sans-serif';
+  font-size: 14px;
+  background: url('img/bg.jpg') no-repeat;
+  color: #000000
+}
+
+.header-bottom h2 {
+  font-size: 55px;
+  line-height: 1;
+  font-weight: 500;
+}
+
+.features p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+
